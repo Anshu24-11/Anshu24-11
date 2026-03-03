@@ -32,6 +32,8 @@
 
 ## 📊 GitHub Stats
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshu24-11&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu24-11&layout=compact&theme=radical)
+
+![Snake animation](https://github.com/thepiyushmalhotra/Anshu24-11/blob/output/github-contribution-grid-snake.svg)
