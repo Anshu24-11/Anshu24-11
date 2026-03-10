@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshu24-11&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-phi-68.vercel.app/api?username=Anshu24-11&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu24-11&layout=compact&theme=radical)
 
