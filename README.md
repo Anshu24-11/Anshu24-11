@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-phi-68.vercel.app/api?username=Anshu24-11&show_icons=true&theme=tokyonight)
+https://github-readme-stats-eight-phi-68.vercel.app/api?username=Anshu24-11&show_icons=true&theme=tokyonight
 
 ## 🔥 GitHub Streak
 
